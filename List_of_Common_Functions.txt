@@ -1,0 +1,17 @@
+type() - built-in, returns the data type 
+    (string, int, float, etc.)
+
+    All data types in Python: 
+
+    Numeric data types: int, float, complex
+    String data types: str
+    Sequence types: list, tuple, range
+    Binary types: bytes, bytearray, memoryview
+    Mapping data type: dict
+    Boolean type: bool
+    Set data types: set, frozenset
+
+
+pow()
+   # How you raise a value to some power
+    pow(x, 2) # x to the power of 2
