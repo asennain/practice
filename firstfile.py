@@ -1,6 +1,9 @@
 import os
+from matrix_multiply import the_best 
+print("First thing's first, let's get started with this code.")
 
-print("First thing's first, let's get started with this code")
-os.system('cls' if os.name == 'nt' else 'clear')
+# Here we've called a function that's in the same directory as this file 
+the_best()
+ 
 
 
