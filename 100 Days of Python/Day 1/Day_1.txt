@@ -1,0 +1,7 @@
+Hover over highlighted code to get more information about error or (potential) errors
+
+Debugging - see how the code exectutes line-by-line 
+    Display the value of all variables at a certain point in time 
+
+
+
