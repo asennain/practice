@@ -8,7 +8,7 @@ Things to improve:
 
 from num2words import num2words
 
-username = input("Hello. What's your name?  ")
+username = input("\nHello. What's your name?  \n")
 
 # Initialize counter for letters in name 
 letters = 0
@@ -39,7 +39,7 @@ for character in username:
 
 
 if validname: 
-    print(f"There are {num2words(letters)} letters in your name.")
+    print(f"\nThere are {num2words(letters)} letters in your name.\n\nProgram exiting...\n")
 
 
     
