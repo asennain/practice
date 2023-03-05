@@ -1,0 +1,19 @@
+Move cursor to end of line:                             End 
+
+Move cursor to start of line:                           Home    
+
+Navigate line element by element from start of line:    CTRL + ->
+
+Navigate line element by element from end of line:      CTRL + <-
+
+Highlight entire line from start of line:               Shift + End 
+
+Highlight entire line from end of line:                 Shift + Home
+
+Highlight line element by element from start of line:   Shift + ->
+
+Highlight line element by element from end of line:     Shift + <-
+
+Highlight line block by block from start of line:       CTRL + Shift + ->
+
+Highlight line block by block from end of line:         CTRL + Shift + <-
