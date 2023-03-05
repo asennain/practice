@@ -1,7 +1,7 @@
 import time
 
-# # This file returns the amount of weeks someone can
-# # live up to based on their current age assuming they live
+#  This file returns the amount of weeks someone can
+#  live up to based on their current age assuming they live
 # until 90
 
 # Assuming: 
@@ -21,6 +21,7 @@ def print_dots(numdots = 3):
         time.sleep(0.4)
         print(dot, end=" ")
         x+=1
+
 
 # initial welcome to the user
 time.sleep(1)
